@@ -1,0 +1,12 @@
+﻿using System;
+
+namespace OopConptsDemo
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
+}
